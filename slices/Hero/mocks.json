@@ -1,0 +1,42 @@
+[
+	{
+		"__TYPE__": "SharedSliceContent",
+		"variation": "default",
+		"primary": {
+			"body": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "paragraph",
+						"content": {
+							"text": "Eu laboris adipisicing dolore veniam fugiat ullamco ut cillum ex deserunt culpa magna laborum ad. Aliquip nisi reprehenderit labore labore fugiat est voluptate anim in est labore. Nulla aliquip eu mollit do id et."
+						}
+					}
+				]
+			},
+			"button": {
+				"key": "b8ee37cc-1fb7-41c5-841d-0093fa5c7178",
+				"__TYPE__": "LinkContent",
+				"value": {
+					"__TYPE__": "ExternalLink",
+					"url": "https://prismic.io",
+					"text": "shot"
+				}
+			},
+			"heading": {
+				"__TYPE__": "StructuredTextContent",
+				"value": [
+					{
+						"type": "heading1",
+						"content": {
+							"text": "Familiar Skateboards ",
+							"spans": []
+						},
+						"direction": "ltr"
+					}
+				]
+			}
+		},
+		"items": []
+	}
+]
